@@ -1,0 +1,148 @@
+{
+    "title": "Portafolio PK",
+    "description": "Software Engineer Tech Lead",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Pol Hernán Camino",
+    "skill": "Software Engineer at Vueling Airlines S.A.",
+    "location": "Barcelona (Spain)",
+    "media": {
+        "email": "p.heran.camino2005@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/polhernan",
+        "likedin": "https://linkedin.com/in/polhernaan"
+    },
+    "about": "I'm a software engineer at vueling airlines. I've started programming at 8 years old, and haven't stopped since then. Also in my free time I go to the gym and play padel.",
+    "technologies": [
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Binario"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Ensamblador"
+        },
+        {
+            "icon": "devicon-devicon-plain",
+            "name": "Frontend"
+        },
+        {
+            "icon": "devicon-c-plain",
+            "name": "C#"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "Vueling Airlines S.A.",
+            "subtitle": "Software Engineer Tech Lead",
+            "description": "Architecture and software desing of core e-commerce platform functionalities.",
+            "date": "September 2025 - Now"
+        },
+        {
+            "icon": "terminal",
+            "title": "Advanced Software Consulting",
+            "subtitle": "Backend Team Lead",
+            "description": "Organise and mentor the backend team, being aware about the newest technologies and architectures.",
+            "date": "June 2025 - Now"
+        },
+        {
+            "icon": "terminal",
+            "title": "Pisos.com",
+            "subtitle": "Backend Software Engineer",
+            "description": "Development of new features for the e-commerce platform, and learning about testing and architecture.",
+            "date": "September 2024 - June 2025"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "boxes",
+            "title": ".NET Clean Architecture Template",
+            "subtitle": "Includes architecture, testing and Azure DevOps Pipelines.",
+            "description": "Template to keep all the microservices the same way, using the same clean architecture approach. Also includes custom releasing pipelines for Azure DevOps.",
+            "technologies": [
+                {
+                    "icon": "code",
+                    "name": ".NET"
+                },
+                {
+                    "icon": "code",
+                    "name": "YAML"
+                },
+                {
+                    "icon": "test_tube_diagonal",
+                    "name": "Testing"
+                }
+            ],
+            "image": "/project_1.webp",
+            "url": "https://github.com/polhernan/MicroserviceTemplate",
+            "github": "https://github.com/polhernan/MicroserviceTemplate"
+        },
+        {
+            "icon": "boxes",
+            "title": "Cross Cutting Package",
+            "subtitle": "Common utilities for all projects",
+            "description": "This NuGet package for .NET software shares common classes that most projects must use, such as OperationResult pattern or custom Dependency Injection.",
+            "technologies": [
+                {
+                    "icon": "code",
+                    "name": ".NET"
+                },
+                {
+                    "icon": "code",
+                    "name": "NuGet"
+                }
+            ],
+            "image": "/project_2.jpeg",
+            "url": "https://github.com/polhernan/MicroserviceTemplate",
+            "github": "https://github.com/polhernan/MicroserviceTemplate"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Computer Engineering",
+            "subtitle": "UOC",
+            "description": "Learning about the basics of computer science and AI.",
+            "date": "2025 - 2028"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "CFGS - Multiplatform Applications Development",
+            "subtitle": "IES Carles Vallbona",
+            "description": "Learned about software architecture and database management.",
+            "date": "2023 - 2025"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "CFGm - Microinformatics System and Networks",
+            "subtitle": "IES LLica",
+            "description": "Learned about networking and informatics systems.",
+            "date": "2021 - 2023"
+        }
+    ],
+    "extras": [
+        {
+            "image": "/extra_1.jpg",
+            "title": "The Matrix",
+            "description": "Aparecí en esta película.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+        },
+        {
+            "image": "/extra_2.jpg",
+            "title": "The Matrix Reloaded",
+            "description": "Y en esta otra.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+        },
+        {
+            "image": "/extra_3.jpg",
+            "title": "The Matrix Revolutions",
+            "description": "Y en esta más.",
+            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+        }
+    ]
+}
